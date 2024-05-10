@@ -1,0 +1,18 @@
+Nombres: Bosnia
+Apellidos: Ramirez Urbina
+DPI: 3020677550101
+Fecha de nacimiento: 18/05/2022
+Telefono: 56165955
+Nombre de usuario: Bosnaya1
+Correo electronico: bosniaratona@gmail.com
+Contrasena: 15963
+---------------------------------------------------
+Nombres: Joseph Israel
+Apellidos: Ramirez Urbina
+DPI: 3020677440101
+Fecha de nacimiento: 09/12/2002
+Telefono: 56165955
+Nombre de usuario: Israel777
+Correo electronico: israelramirezu7@gmail.com
+Contrasena: 181222
+---------------------------------------------------
